@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
-```bash
+bash
 ┌──(santosh㉿github)-[~]
 └─$ cat about_me.txt
 
@@ -37,7 +37,7 @@
 ┌──(santosh㉿github)-[~]
 └─$ echo $PASSION
   "Turning complex problems into elegant code."
-```
+  
 
 <br clear="right"/>
 
