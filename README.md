@@ -32,7 +32,7 @@ $ echo $STATUS
 
 <div align="center">
 
-## `// TECH STACK`
+## `TECH STACK`
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,7 +50,7 @@ $ echo $STATUS
 
 ---
 
-## `// GITHUB STATS`
+## `GITHUB STATS`
 
 <div align="center">
 
@@ -67,7 +67,7 @@ $ echo $STATUS
 
 ---
 
-## `// ACTIVITY GRAPH`
+## `ACTIVITY GRAPH`
 
 <div align="center">
 
@@ -77,7 +77,7 @@ $ echo $STATUS
 
 ---
 
-## `// TROPHIES`
+## `TROPHIES`
 
 <div align="center">
 
@@ -87,7 +87,7 @@ $ echo $STATUS
 
 ---
 
-## `// FEATURED PROJECTS`
+## `FEATURED PROJECTS`
 
 <div align="center">
 
@@ -101,7 +101,7 @@ $ echo $STATUS
 
 ---
 
-## `// CONNECT WITH ME`
+## `CONNECT WITH ME`
 
 <div align="center">
 
