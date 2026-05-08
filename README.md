@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ```
 ███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗
@@ -122,4 +122,64 @@ $ echo $STATUS
 
 **`// Thanks for visiting. Don't forget to ⭐ something!`**
 
-</div>
+</div> -->
+
+
+
+
+
+# Hi there, I'm Santosh! 👋
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20Developer%20%26%20UI/UX%20Designer&fontSize=40&animation=fadeIn" />
+</p>
+
+## ⚡ Skillset & Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 📊 My Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santosh130602&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh130602&layout=compact&langs_count=7&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh130602&theme=dark" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🛡️ [CensorWall](https://github.com/Santosh130602/CensorWall)
+*Future's Safe. Screens Are Clean.*  
+An Android application focused on digital safety and content filtering with PIN-protected background services.
+
+### ✂️ [Yiora](https://github.com/Santosh130602)
+*SALON . SPA . PARLER*  
+A luxury-themed minimalist booking platform designed with a high-fidelity UI for professional grooming services.
+
+### 💰 [Wallet Management](https://github.com/binplustech/wallet-management)
+A robust backend system for managing digital wallets, demonstrating expertise in logic and data structures.
+
+---
+
+## 📈 3D Contribution Graph
+![Santosh's 3D Graph](https://raw.githubusercontent.com/Santosh130602/Santosh130602/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Santosh130602">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
